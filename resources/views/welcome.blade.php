@@ -125,8 +125,8 @@
                 <div class="relative pl-8 border-l border-blue-500/30">
                     <div class="absolute w-4 h-4 bg-blue-500 rounded-full -left-[8.5px] top-1 shadow-[0_0_10px_#3b82f6]"></div>
                     <h4 class="text-xl font-bold text-blue-400">Junior Web Developer (PKL)</h4>
-                    <p class="font-medium">PT. Teknologi Maju Digital</p>
-                    <p class="text-sm text-gray-500 mb-2">Januari 2024 - Maret 2024</p>
+                    <p class="font-medium">CV. Teknologi Antares</p>
+                    <p class="text-sm text-gray-500 mb-2">Juni 2025 - september 2025</p>
                     <p class="text-gray-400">Bertanggung jawab membantu tim backend dalam migrasi database dan pembuatan API untuk modul absensi karyawan.</p>
                 </div>
             </div>
@@ -138,19 +138,19 @@
         <p class="text-gray-400 mb-12">Mari bicara tentang projek kamu atau sekadar menyapa.</p>
 
         <div class="flex flex-wrap justify-center gap-6">
-            <a href="https://wa.me/628123456789" class="glass-card p-4 rounded-2xl flex items-center gap-4 hover:scale-105 transition">
+            <a href="https://wa.me/6285183101552" class="glass-card p-4 rounded-2xl flex items-center gap-4 hover:scale-105 transition">
                 <img src="https://img.icons8.com/color/48/whatsapp.png" class="w-8 h-8">
                 <div class="text-left">
                     <p class="text-xs text-gray-400">WhatsApp</p>
-                    <p class="font-bold text-sm">+62 812-3456-789</p>
+                    <p class="font-bold text-sm">+62 851-8310-1552</p>
                 </div>
             </a>
 
-            <a href="https://instagram.com/adrian_kamu" class="glass-card p-4 rounded-2xl flex items-center gap-4 hover:scale-105 transition">
+            <a href="https://instagram.com/adrianztrx" class="glass-card p-4 rounded-2xl flex items-center gap-4 hover:scale-105 transition">
                 <img src="https://img.icons8.com/fluency/48/instagram-new.png" class="w-8 h-8">
                 <div class="text-left">
                     <p class="text-xs text-gray-400">Instagram</p>
-                    <p class="font-bold text-sm">@adrian_kamu</p>
+                    <p class="font-bold text-sm">@adrianztrx</p>
                 </div>
             </a>
 
@@ -158,7 +158,7 @@
                 <img src="https://img.icons8.com/fluency/48/gmail-new.png" class="w-8 h-8">
                 <div class="text-left">
                     <p class="text-xs text-gray-400">Email</p>
-                    <p class="font-bold text-sm">adrian@email.com</p>
+                    <p class="font-bold text-sm">adrian.web.build@gemail.com</p>
                 </div>
             </a>
         </div>
